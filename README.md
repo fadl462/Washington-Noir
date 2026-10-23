@@ -58,3 +58,10 @@ Sample imagery is loaded from Pexels image CDN URLs and remains hosted by Pexels
 - [Gold jewellery and watch styling — Pexels](https://www.pexels.com/photo/elegant-gold-jewelry-on-hands-outdoors-33587293/)
 
 Photos are placeholders for presentation only. Product imagery should be replaced with the client’s actual product photographs once approved.
+
+
+## Visual direction update
+The current concept intentionally moves away from the conventional ivory-and-gold editorial luxury look. It uses a high-contrast, fashion-forward art direction: near-black surfaces, acid-lime accents, oversized uppercase display typography, kinetic hover treatments, asymmetric layouts, and cinematic Pexels product imagery. This is a temporary client concept; replace imagery and brand details after approval.
+
+## Cloudflare Pages / GitHub Pages
+This is a static HTML/CSS/JavaScript site. No build command is required. Set the build output directory to `.` (repository root) when deploying with Cloudflare Pages. Ensure `index.html` is at the repository root.
